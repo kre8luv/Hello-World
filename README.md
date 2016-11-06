@@ -1,2 +1,4 @@
 # Hello-World
-Beginner Playground
+Beginner Playground.
+
+I'm ready to learn. Eager to get started.
